@@ -1,7 +1,7 @@
 # CPU Scheduling Simulator Project - Frontend
 
 ## Overview
-
+https://github.com/kuldip49/OSproject/blob/main/README.md
 This repository contains the frontend implementation for a CPU Scheduling Algorithm Simulator Project, aiming to provide an interactive visualization of various CPU scheduling algorithms commonly used in operating systems.
 
 ## Theory
@@ -41,7 +41,7 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
     ```bash
-    https://github.com/gajendra-ingle/Frontend-Final-year-project.git
+    https://github.com/kuldip-dhar/Frontend-Final-year-project.git
     
 2. Open `index.html` in your browser.
 
